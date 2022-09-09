@@ -18,11 +18,11 @@ In order to perform the analysis, I merged datasets using left join based on the
 
 * The total fares in urban cities is higher than in rural cities and higher than suburban cities. (Urban: $39854.38,  Rural: $4327.93, Suburban: $19356.33)
 
-![Summary_DataFrame](Summary_DataFrame)
+![Summary_DataFrame.png](Summary_DataFrame.png)
 
 Then I created a multi-line graph that shows the total fares for each type of city. The yellow line for Urban cities is higher than red line (Suburban cities) and blue line (rural cities). That means ride-sharing company has more total fares and revenue in Urban cities rather than in suburban and rural cities.
 
-![PyBer_fare_summary](PyBer_fare_summary)
+![PyBer_fare_summary.png](PyBer_fare_summary.png)
 
 
 ## Summary
